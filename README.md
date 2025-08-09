@@ -15,5 +15,5 @@ This repository hosts the analysis of flotation samples from a porphyry copper o
 
 The full detailed report is available as a PDF in this repository. It contains complete methodology, figures, and results.
 
-You can download the full report here 
+[You can download the full report here👈](https://github.com/Oury-Barry/Mineral-Liberation-Analysis-Porphyry-Copper/blob/main/Barry-Mody-Oury-MoRe-67682.pdf)
 
